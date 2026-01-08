@@ -30,7 +30,7 @@ The dataset contains the following attributes:
 - Suicidal Thoughts  
 - Depression Indicator
 
- [Dataset/Student Depression Dataset.csv]
+ [Dataset/student_depression_dataset.csv]
 
 ## Data Cleaning & Transformation (SQL)
 The following SQL operations were performed:
@@ -51,7 +51,7 @@ The following SQL operations were performed:
 - Depression Count Comparison  
 - Family History vs Depression
 
-![Dashboard Preview](Screenshots/Student Count Analysis Dashboard.png)
+![Dashboard Preview](Screenshots/student_count_analysis_dashboard.png)
 
 ## Tableau Dashboards
 The Tableau dashboard includes:
@@ -64,7 +64,7 @@ The Tableau dashboard includes:
 
 Each visualization supports **interactive filtering** for deeper insights.
 
-[Tableau File](Tableau/Student Data Depression Project.twbx)
+[Tableau File](Tableau/student_data_depression_project.twbx)
 
 
 ## Key Business Insights
@@ -83,5 +83,3 @@ This project helps:
 
 ## Author
 **Sonali Bhosale**
-## 📌 Repository Structure
-
