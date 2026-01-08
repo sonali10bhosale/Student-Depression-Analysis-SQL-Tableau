@@ -1,8 +1,6 @@
 # Student-Depression-Analysis-SQL-Tableau
 End-to-end data analysis of student depression using SQL for data processing and Tableau for interactive dashboards.
 
-# Student Depression Data Analysis (SQL & Tableau)
-
 ## Project Description
 This project analyzes **student depression and mental health patterns** using **SQL for data cleaning, transformation, and analysis**, and **Tableau for interactive visualization**.  
 The objective is to identify how academic pressure, lifestyle habits, and stress factors contribute to student depression.
@@ -14,7 +12,7 @@ The objective is to identify how academic pressure, lifestyle habits, and stress
 - Identify patterns linked to depression among students  
 
 ## Tools & Technologies
-- **SQL Server** – Data cleaning, transformation, and analysis  
+- **SQL Server** – Data cleaning, transformation, and analysis
 - **Tableau** – Interactive dashboards and visual storytelling  
 - **Excel / CSV** – Raw dataset source  
 
@@ -30,7 +28,9 @@ The dataset contains the following attributes:
 - Financial Stress  
 - Family History of Mental Illness  
 - Suicidal Thoughts  
-- Depression Indicator  
+- Depression Indicator
+
+ Dataset/Depression_Student_Dataset.csv
 
 ## Data Cleaning & Transformation (SQL)
 The following SQL operations were performed:
@@ -49,7 +49,9 @@ The following SQL operations were performed:
 - Financial Stress Impact  
 - Study Hours Distribution  
 - Depression Count Comparison  
-- Family History vs Depression  
+- Family History vs Depression
+
+![Dashboard Preview](Screenshots/dashboard_preview.png)
 
 ## Tableau Dashboards
 The Tableau dashboard includes:
@@ -61,6 +63,9 @@ The Tableau dashboard includes:
 - Overall Student Mental Health Dashboard  
 
 Each visualization supports **interactive filtering** for deeper insights.
+
+[Tableau Dashboard File](Tableau/Student_Depression_Dashboard.twbx)
+
 
 ## Key Business Insights
 - Higher academic pressure is strongly linked to increased depression cases  
